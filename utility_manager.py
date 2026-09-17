@@ -1,4 +1,4 @@
-#pass - Harshmysql01
+#pass - <your MySQL password>
 # utility_manager.py
 # Simple Utility Manager with MySQL
 # Features: Documents, Files, Passwords, To-Do List, Notes, Export, Help
