@@ -1,0 +1,1 @@
+I've made this utility manager program using python and MySQL which has features to save Documents, Files, Passwords, To-Do List, Notes, and Export those saved documents, files, passwords, etc, as a file on your pc or laptop.
